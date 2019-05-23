@@ -1,0 +1,11 @@
+framework module LibWM {
+  umbrella header "LibWM.h"
+
+  export *
+  module * { export * }
+}
+
+module LibWM.Swift {
+    header "LibWM-Swift.h"
+    requires objc
+}
