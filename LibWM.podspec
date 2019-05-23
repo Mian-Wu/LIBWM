@@ -82,7 +82,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/Mian-Wu/LIBWM.git", :tag => s.version}
+  spec.source       = { :git => "https://github.com/Mian-Wu/LIBWM.git", :tag => spec.version}
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
