@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |spec|
   spec.name         = "LibWM"
-  spec.version      = "1.0.0"
+  spec.version      = "2.0.0"
   spec.summary      = "A demo framework of LibWM"
   spec.description  = "here is description.A demo framework of LibWM."
   spec.homepage     = "https://github.com/Mian-Wu/LIBWM"
